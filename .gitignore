@@ -1,2 +1,5 @@
 .meteor/local
 .meteor/meteorite
+.meteor/.id
+.meteor/versions
+node_modules
