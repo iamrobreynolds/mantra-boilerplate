@@ -1,2 +1,2 @@
 # mantra-boilerplate
-Boilerplate for Mantra + Meteor + React
+Boilerplate for Meteor + React using Mantra with node-sass
